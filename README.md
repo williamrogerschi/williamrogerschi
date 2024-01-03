@@ -22,7 +22,7 @@ React / MongoDB / Django / Express
 [LinkedIn](https://www.linkedin.com/in/billy-rogers-chi/){:target="_blank"}
 [Email](william.rogers.chi@gmail.com){:target="_blank"}
 
-<a href='google.com target='blank'>Google</a>
+<a href='google.com' target='blank'>Google</a>
 
 
 
