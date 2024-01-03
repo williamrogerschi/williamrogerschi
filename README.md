@@ -9,9 +9,9 @@
 - 💞️ I'm open to collaborating on exciting projects and contributing to innovative ideas. Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
 
 
-- 💼 Skills:
-- Full-stack w/ a strong approach to front-end development
-- UI/UX Design
+<p>💼 Skills:</p>
+<li>Full-stack w/ a strong approach to front-end development</li>
+<li>UI/UX Design</li>
 - Collaboration
 - Problem Solving
 - Analytical
