@@ -19,7 +19,7 @@
 
 - 📫 [Portfolio](https://billy-port.netlify.app/)
 [LinkedIn](https://www.linkedin.com/in/billy-rogers-chi/)
-[Email](william.rogers.chi@gmail.com)\
+[Email](william.rogers.chi@gmail.com)
 
 
 
