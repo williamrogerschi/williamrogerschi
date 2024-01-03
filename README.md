@@ -18,7 +18,7 @@ React / MongoDB / Django / Express
 
 <br></br>
 
-📫 [Portfolio](https://billy-port.netlify.app/)
+📫 [Portfolio target='blank'](https://billy-port.netlify.app/)
 [LinkedIn](https://www.linkedin.com/in/billy-rogers-chi/)
 [Email](william.rogers.chi@gmail.com)
 
