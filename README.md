@@ -20,7 +20,9 @@ React / MongoDB / Django / Express
 
 📫[Portfolio](https://billy-port.netlify.app/){:target="_blank"}
 [LinkedIn](https://www.linkedin.com/in/billy-rogers-chi/){:target="_blank"}
-[Email](william.rogers.chi@gmail.com{:target="_blank"})
+[Email](william.rogers.chi@gmail.com){:target="_blank"}
+
+<a href='google.com target='blank>Google</a>
 
 
 
