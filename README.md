@@ -2,7 +2,7 @@
 
 
 🌱 Languages:
-HTML / CSS / Node.jsn / TypeScript / Python / Tailwind CSS / Bootstrap
+HTML / CSS / Node.js / TypeScript / Python / Tailwind CSS / Bootstrap
 React / MongoDB / Django / Express
 
 
